@@ -1,0 +1,1 @@
+python symb.py --chain sepolia nets
